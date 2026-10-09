@@ -6,14 +6,14 @@
 .assist-hero{
   background: transparent;
   border-bottom: 1px solid var(--site-hairline);
-  padding: 0;
+  padding: 32px 0 40px;
 }
 .assist-hero-grid{
   width: 100%;
   max-width: 1280px;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: 350px;
+  grid-template-columns: minmax(0,350px);
   gap: 32px;
   padding: 0 20px;
   align-items: center;
@@ -81,16 +81,17 @@
 .assist-btn-primary:hover{ background: var(--site-orange-hover); border-color: var(--site-orange-hover); }
 .assist-btn-secondary{ background: var(--site-panel); border-color: var(--site-border); color: var(--site-text); }
 
+.assist-hero-visual{min-width:0;order:-1}
+.assist-hero-visual h2{font-size:clamp(32px,3.5vw,48px);line-height:1.03;font-weight:800;letter-spacing:-.03em;margin:0 0 24px;color:var(--site-text);overflow-wrap:anywhere}
 .assist-hero-media{
   margin: 0;
-  width: 350px;
-  height: 233.328px;
+  width: 100%;
+  height: auto;
   border-radius: 8px;
   border: 1px solid var(--site-border);
-  background: var(--site-panel);
+  background: radial-gradient(ellipse at top right,color-mix(in srgb,var(--site-orange) 18%,transparent),var(--site-panel));
   overflow: hidden;
   aspect-ratio: 3 / 2;
-  order: -1;
 }
 .assist-hero-media img{ width:100%; height:100%; object-fit:cover; object-position:50% 50%; display:block; }
 
@@ -173,7 +174,7 @@
   .assist-hero{ padding:64.88px 0 48.66px; }
   .assist-hero-grid{
     grid-template-columns:732px;
-    grid-template-rows:488px 332.891px;
+    grid-template-rows:auto auto;
     gap:48.66px;
     padding:0 32px;
   }
@@ -194,6 +195,7 @@
 
 /* ========== DESKTOP — sem JSON, estrutura HTML real copy|media lado a lado ========== */
 @media (min-width: 1024px){
+  .assist-hero-visual{order:0}
   .assist-hero{ padding:64.88px 0 48.66px; }
   .assist-hero-grid{
     grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);

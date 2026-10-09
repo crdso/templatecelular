@@ -350,7 +350,6 @@ img{display:block;max-width:100%}
 .demo-ig-stats{display:grid;grid-template-columns:repeat(3,1fr);text-align:center;border-block:1px solid var(--site-border);padding:18px 0}.demo-ig-stats strong,.demo-ig-stats small{display:block}.demo-ig-stats small{font-size:11px;color:var(--site-muted)}
 .nav-brand{min-width:0;gap:8px}.nav-brand span{font-size:clamp(12px,1.1vw,16px);white-space:nowrap}.nav-brand-logo{background:#fff;border-radius:8px;object-fit:contain}
 .cart-checkout{display:flex;justify-content:center;text-decoration:none;margin-top:14px}.cart-checkout-pending{width:100%}
-.demo-repair-visual{padding:clamp(32px,5vw,72px);background:radial-gradient(ellipse at top right,color-mix(in srgb,var(--site-orange) 18%,transparent),var(--site-panel));border:1px solid var(--site-border);border-radius:24px;min-height:340px;display:flex;flex-direction:column;justify-content:center}.demo-repair-visual span{font-size:80px;color:var(--site-orange)}.demo-repair-visual h2{font-size:clamp(28px,3vw,44px)}.demo-repair-visual p{margin:24px 0;color:var(--site-muted)}
 @media(max-width:767px){.demo-contact-grid,.units-grid{grid-template-columns:1fr}.nav-brand-logo{width:36px;height:36px}.demo-contact{padding-top:110px}.location-card{padding:24px}}
 
 @media(min-width:768px) and (max-width:1023px){.site-header-inner{grid-template-columns:minmax(0,1fr) auto auto}}

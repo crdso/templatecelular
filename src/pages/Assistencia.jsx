@@ -33,9 +33,10 @@ export default function Assistencia(){
               <Link to="/contato" className="assist-btn assist-btn-secondary">Ver contatos</Link>
             </div>
           </div>
-          <figure className="assist-hero-media">
-            <div className="demo-repair-visual"><span aria-hidden="true">✦</span><h2>IMAGEM DA ASSISTENCIA TÉCNICA (ilustrativa)</h2></div>
-          </figure>
+          <div className="assist-hero-visual">
+            <h2>UMA IMAGEM DA ASSISTENCIA TÉCNICA (ilustrativa)</h2>
+            <figure className="assist-hero-media" aria-label="Espaço para imagem ilustrativa da assistência técnica" />
+          </div>
         </div>
       </section>
 
