@@ -1,0 +1,1494 @@
+[
+  {
+    "id": "967",
+    "slug": "iphone-17-pro-max-512gb-laranja-967",
+    "name": "iPhone 17 Pro Max",
+    "sku": null,
+    "type": "variable",
+    "currency": "BRL",
+    "price": 980000,
+    "regularPrice": 1090000,
+    "salePrice": 980000,
+    "compareAt": 1090000,
+    "priceRange": {
+      "min_amount": "980000",
+      "max_amount": "1190000"
+    },
+    "category": "iphones",
+    "categories": [
+      {
+        "id": 18,
+        "name": "Apple",
+        "slug": "apple",
+        "link": ""
+      }
+    ],
+    "marca": "Apple",
+    "attributes": [
+      {
+        "id": 2,
+        "name": "Memória",
+        "taxonomy": "pa_memoria",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 26,
+            "name": "256gb",
+            "slug": "256gb"
+          },
+          {
+            "id": 27,
+            "name": "512gb",
+            "slug": "512gb"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Cor",
+        "taxonomy": "pa_cor",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 20,
+            "name": "Azul",
+            "slug": "azul"
+          },
+          {
+            "id": 21,
+            "name": "Branco",
+            "slug": "branco"
+          },
+          {
+            "id": 52,
+            "name": "Laranja",
+            "slug": "laranja"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "983",
+        "label": "Memória: 512gb · Cor: laranja",
+        "attributes": [
+          {
+            "name": "Memória",
+            "value": "512gb"
+          },
+          {
+            "name": "Cor",
+            "value": "laranja"
+          }
+        ],
+        "sku": null,
+        "price": 1190000,
+        "compareAt": 1290000,
+        "salePrice": 1190000,
+        "available": true,
+        "stock": null,
+        "image": "/images/catalog/iphone-17-pro-max-512gb-laranja-967/cover.webp"
+      },
+      {
+        "id": "982",
+        "label": "Memória: 512gb · Cor: branco",
+        "attributes": [
+          {
+            "name": "Memória",
+            "value": "512gb"
+          },
+          {
+            "name": "Cor",
+            "value": "branco"
+          }
+        ],
+        "sku": null,
+        "price": 1190000,
+        "compareAt": 1290000,
+        "salePrice": 1190000,
+        "available": true,
+        "stock": null,
+        "image": "/images/catalog/iphone-17-pro-max-512gb-laranja-967/gallery-03.webp"
+      },
+      {
+        "id": "981",
+        "label": "Memória: 512gb · Cor: azul",
+        "attributes": [
+          {
+            "name": "Memória",
+            "value": "512gb"
+          },
+          {
+            "name": "Cor",
+            "value": "azul"
+          }
+        ],
+        "sku": "A3523",
+        "price": 1190000,
+        "compareAt": 1290000,
+        "salePrice": 1190000,
+        "available": true,
+        "stock": null,
+        "image": "/images/catalog/iphone-17-pro-max-512gb-laranja-967/gallery-04.webp"
+      },
+      {
+        "id": "980",
+        "label": "Memória: 256gb · Cor: laranja",
+        "attributes": [
+          {
+            "name": "Memória",
+            "value": "256gb"
+          },
+          {
+            "name": "Cor",
+            "value": "laranja"
+          }
+        ],
+        "sku": null,
+        "price": 990000,
+        "compareAt": 1209000,
+        "salePrice": 990000,
+        "available": true,
+        "stock": null,
+        "image": "/images/catalog/iphone-17-pro-max-512gb-laranja-967/cover.webp"
+      },
+      {
+        "id": "979",
+        "label": "Memória: 256gb · Cor: branco",
+        "attributes": [
+          {
+            "name": "Memória",
+            "value": "256gb"
+          },
+          {
+            "name": "Cor",
+            "value": "branco"
+          }
+        ],
+        "sku": null,
+        "price": 990000,
+        "compareAt": 1209000,
+        "salePrice": 990000,
+        "available": true,
+        "stock": null,
+        "image": "/images/catalog/iphone-17-pro-max-512gb-laranja-967/gallery-03.webp"
+      },
+      {
+        "id": "978",
+        "label": "Memória: 256gb · Cor: azul",
+        "attributes": [
+          {
+            "name": "Memória",
+            "value": "256gb"
+          },
+          {
+            "name": "Cor",
+            "value": "azul"
+          }
+        ],
+        "sku": null,
+        "price": 980000,
+        "compareAt": 1090000,
+        "salePrice": 980000,
+        "available": true,
+        "stock": null,
+        "image": "/images/catalog/iphone-17-pro-max-512gb-laranja-967/gallery-04.webp"
+      }
+    ],
+    "condition": null,
+    "images": [
+      "/images/catalog/iphone-17-pro-max-512gb-laranja-967/cover.webp",
+      "/images/catalog/iphone-17-pro-max-512gb-laranja-967/gallery-01.webp",
+      "/images/catalog/iphone-17-pro-max-512gb-laranja-967/gallery-02.webp"
+    ],
+    "foto_url": "/images/catalog/iphone-17-pro-max-512gb-laranja-967/cover.webp",
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "variationsIncomplete": false,
+    "requiresOptions": true,
+    "hidden": false,
+    "originalName": "Iphone 17 Pro Max",
+    "department": "smartphones",
+    "short": "iPhone com tela OLED Super Retina XDR de 6,9″ e chip A19 Pro. O ProMotion ajusta a taxa de atualização em até 120 Hz.",
+    "specs": [
+      {
+        "label": "Armazenamento das opções confirmadas",
+        "value": "512 GB / 256 GB"
+      },
+      {
+        "label": "Tela",
+        "value": "OLED Super Retina XDR de 6,9″"
+      },
+      {
+        "label": "Chip",
+        "value": "A19 Pro"
+      },
+      {
+        "label": "Câmeras traseiras",
+        "value": "Sistema Pro Fusion de 48 MP"
+      },
+      {
+        "label": "Conector",
+        "value": "USB-C"
+      },
+      {
+        "label": "Atualização da tela",
+        "value": "ProMotion, até 120 Hz"
+      }
+    ],
+    "highlights": [
+      "Tela OLED Super Retina XDR",
+      "Chip A19 Pro"
+    ],
+    "notes": [
+      "Cores, acessórios, versão regional e disponibilidade devem ser confirmados com a equipe. Recursos de rede dependem da operadora e da região."
+    ],
+    "priceNeedsReview": false,
+    "verification": "modelo-verificado",
+    "media": [
+      {
+        "src": "/images/catalog/iphone-17-pro-max-512gb-laranja-967/cover.webp",
+        "thumbnail": "/images/catalog/iphone-17-pro-max-512gb-laranja-967/cover-thumb.webp",
+        "width": 575,
+        "height": 537,
+        "thumbWidth": 480,
+        "thumbHeight": 448
+      },
+      {
+        "src": "/images/catalog/iphone-17-pro-max-512gb-laranja-967/gallery-01.webp",
+        "thumbnail": "/images/catalog/iphone-17-pro-max-512gb-laranja-967/gallery-01-thumb.webp",
+        "width": 575,
+        "height": 535,
+        "thumbWidth": 480,
+        "thumbHeight": 447
+      },
+      {
+        "src": "/images/catalog/iphone-17-pro-max-512gb-laranja-967/gallery-02.webp",
+        "thumbnail": "/images/catalog/iphone-17-pro-max-512gb-laranja-967/gallery-02-thumb.webp",
+        "width": 575,
+        "height": 478,
+        "thumbWidth": 480,
+        "thumbHeight": 399
+      },
+      {
+        "src": "/images/catalog/iphone-17-pro-max-512gb-laranja-967/gallery-03.webp",
+        "thumbnail": "/images/catalog/iphone-17-pro-max-512gb-laranja-967/gallery-03-thumb.webp",
+        "width": 381,
+        "height": 495,
+        "thumbWidth": 369,
+        "thumbHeight": 480
+      },
+      {
+        "src": "/images/catalog/iphone-17-pro-max-512gb-laranja-967/gallery-04.webp",
+        "thumbnail": "/images/catalog/iphone-17-pro-max-512gb-laranja-967/gallery-04-thumb.webp",
+        "width": 391,
+        "height": 495,
+        "thumbWidth": 379,
+        "thumbHeight": 480
+      }
+    ]
+  },
+  {
+    "id": "419",
+    "slug": "iphone-16-pro-lacrado-419",
+    "name": "iPhone 16 Pro — lacrado",
+    "sku": null,
+    "type": "simple",
+    "currency": "BRL",
+    "price": 599000,
+    "regularPrice": 599000,
+    "salePrice": null,
+    "compareAt": null,
+    "priceRange": null,
+    "category": "iphones",
+    "categories": [
+      {
+        "id": 18,
+        "name": "Apple",
+        "slug": "apple",
+        "link": ""
+      }
+    ],
+    "marca": "Apple",
+    "attributes": [],
+    "variants": [],
+    "condition": "Lacrado",
+    "images": [
+      "/images/catalog/iphone-16-pro-lacrado-419/cover.webp"
+    ],
+    "foto_url": "/images/catalog/iphone-16-pro-lacrado-419/cover.webp",
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "variationsIncomplete": false,
+    "requiresOptions": false,
+    "hidden": false,
+    "originalName": "IPhone 16 Pro Lacrado",
+    "department": "smartphones",
+    "short": "iPhone com tela OLED Super Retina XDR de 6,3″ e chip A18 Pro. O ProMotion ajusta a taxa de atualização em até 120 Hz.",
+    "specs": [
+      {
+        "label": "Tela",
+        "value": "OLED Super Retina XDR de 6,3″"
+      },
+      {
+        "label": "Chip",
+        "value": "A18 Pro"
+      },
+      {
+        "label": "Câmeras traseiras",
+        "value": "Principal de 48 MP"
+      },
+      {
+        "label": "Conector",
+        "value": "USB-C"
+      },
+      {
+        "label": "Atualização da tela",
+        "value": "ProMotion, até 120 Hz"
+      }
+    ],
+    "highlights": [
+      "Tela OLED Super Retina XDR",
+      "Chip A18 Pro"
+    ],
+    "notes": [
+      "Cores, acessórios, versão regional e disponibilidade devem ser confirmados com a equipe. Recursos de rede dependem da operadora e da região."
+    ],
+    "priceNeedsReview": false,
+    "verification": "modelo-verificado",
+    "media": [
+      {
+        "src": "/images/catalog/iphone-16-pro-lacrado-419/cover.webp",
+        "thumbnail": "/images/catalog/iphone-16-pro-lacrado-419/cover-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      }
+    ]
+  },
+  {
+    "id": "416",
+    "slug": "iphone-16-pro-max-lacrado-416",
+    "name": "iPhone 16 Pro Max 256 GB — seminovo",
+    "sku": null,
+    "type": "simple",
+    "currency": "BRL",
+    "price": 680000,
+    "regularPrice": 680000,
+    "salePrice": null,
+    "compareAt": null,
+    "priceRange": null,
+    "category": "iphones",
+    "categories": [
+      {
+        "id": 18,
+        "name": "Apple",
+        "slug": "apple",
+        "link": ""
+      }
+    ],
+    "marca": "Apple",
+    "attributes": [],
+    "variants": [],
+    "condition": "Seminovo",
+    "images": [
+      "/images/catalog/iphone-16-pro-max-lacrado-416/cover.webp"
+    ],
+    "foto_url": "/images/catalog/iphone-16-pro-max-lacrado-416/cover.webp",
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "variationsIncomplete": false,
+    "requiresOptions": false,
+    "hidden": false,
+    "originalName": "IPhone 16 Pro Max Seminovo 256 GB",
+    "department": "smartphones",
+    "short": "iPhone com tela OLED Super Retina XDR de 6,9″ e chip A18 Pro. O ProMotion ajusta a taxa de atualização em até 120 Hz.",
+    "specs": [
+      {
+        "label": "Armazenamento anunciado",
+        "value": "256 GB"
+      },
+      {
+        "label": "Tela",
+        "value": "OLED Super Retina XDR de 6,9″"
+      },
+      {
+        "label": "Chip",
+        "value": "A18 Pro"
+      },
+      {
+        "label": "Câmeras traseiras",
+        "value": "Principal de 48 MP"
+      },
+      {
+        "label": "Conector",
+        "value": "USB-C"
+      },
+      {
+        "label": "Atualização da tela",
+        "value": "ProMotion, até 120 Hz"
+      }
+    ],
+    "highlights": [
+      "Tela OLED Super Retina XDR",
+      "Chip A18 Pro"
+    ],
+    "notes": [
+      "Cores, acessórios, versão regional e disponibilidade devem ser confirmados com a equipe. Recursos de rede dependem da operadora e da região.",
+      "Em aparelhos seminovos, saúde da bateria, marcas de uso e histórico de manutenção são específicos da unidade. Consulte a equipe."
+    ],
+    "priceNeedsReview": false,
+    "verification": "modelo-verificado",
+    "media": [
+      {
+        "src": "/images/catalog/iphone-16-pro-max-lacrado-416/cover.webp",
+        "thumbnail": "/images/catalog/iphone-16-pro-max-lacrado-416/cover-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      }
+    ]
+  },
+  {
+    "id": "414",
+    "slug": "iphone-13-lacrado-128-gb-414",
+    "name": "iPhone 13 128 GB — lacrado",
+    "sku": null,
+    "type": "simple",
+    "currency": "BRL",
+    "price": 329000,
+    "regularPrice": 329000,
+    "salePrice": null,
+    "compareAt": null,
+    "priceRange": null,
+    "category": "acessorios",
+    "categories": [
+      {
+        "id": 36,
+        "name": "Acessorios",
+        "slug": "acessorios",
+        "link": ""
+      }
+    ],
+    "marca": "Apple",
+    "attributes": [],
+    "variants": [],
+    "condition": "Lacrado",
+    "images": [
+      "/images/catalog/iphone-13-lacrado-128-gb-414/cover.webp"
+    ],
+    "foto_url": "/images/catalog/iphone-13-lacrado-128-gb-414/cover.webp",
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "variationsIncomplete": false,
+    "requiresOptions": false,
+    "hidden": false,
+    "originalName": "IPhone 13 Lacrado 128 GB",
+    "department": "smartphones",
+    "short": "iPhone com tela OLED Super Retina XDR de 6,1″ e chip A15 Bionic. Uma combinação de tela OLED e câmeras para fotos, vídeos e tarefas do dia a dia.",
+    "specs": [
+      {
+        "label": "Armazenamento anunciado",
+        "value": "128 GB"
+      },
+      {
+        "label": "Tela",
+        "value": "OLED Super Retina XDR de 6,1″"
+      },
+      {
+        "label": "Chip",
+        "value": "A15 Bionic"
+      },
+      {
+        "label": "Câmeras traseiras",
+        "value": "Dupla de 12 MP"
+      },
+      {
+        "label": "Conector",
+        "value": "Lightning"
+      }
+    ],
+    "highlights": [
+      "Tela OLED Super Retina XDR",
+      "Chip A15 Bionic"
+    ],
+    "notes": [
+      "Cores, acessórios, versão regional e disponibilidade devem ser confirmados com a equipe. Recursos de rede dependem da operadora e da região."
+    ],
+    "priceNeedsReview": false,
+    "verification": "modelo-verificado",
+    "media": [
+      {
+        "src": "/images/catalog/iphone-13-lacrado-128-gb-414/cover.webp",
+        "thumbnail": "/images/catalog/iphone-13-lacrado-128-gb-414/cover-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      }
+    ]
+  },
+  {
+    "id": "411",
+    "slug": "iphone-15-lacrado-128-gb-411",
+    "name": "iPhone 15 128 GB — lacrado",
+    "sku": null,
+    "type": "simple",
+    "currency": "BRL",
+    "price": 448000,
+    "regularPrice": 448000,
+    "salePrice": null,
+    "compareAt": null,
+    "priceRange": null,
+    "category": "iphones",
+    "categories": [
+      {
+        "id": 18,
+        "name": "Apple",
+        "slug": "apple",
+        "link": ""
+      }
+    ],
+    "marca": "Apple",
+    "attributes": [],
+    "variants": [],
+    "condition": "Lacrado",
+    "images": [
+      "/images/catalog/iphone-15-lacrado-128-gb-411/cover.webp"
+    ],
+    "foto_url": "/images/catalog/iphone-15-lacrado-128-gb-411/cover.webp",
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "variationsIncomplete": false,
+    "requiresOptions": false,
+    "hidden": false,
+    "originalName": "IPhone 15  Lacrado 128 Gb",
+    "department": "smartphones",
+    "short": "iPhone com tela OLED Super Retina XDR de 6,1″ e chip A16 Bionic. Uma combinação de tela OLED e câmeras para fotos, vídeos e tarefas do dia a dia.",
+    "specs": [
+      {
+        "label": "Armazenamento anunciado",
+        "value": "128 GB"
+      },
+      {
+        "label": "Tela",
+        "value": "OLED Super Retina XDR de 6,1″"
+      },
+      {
+        "label": "Chip",
+        "value": "A16 Bionic"
+      },
+      {
+        "label": "Câmeras traseiras",
+        "value": "Principal de 48 MP"
+      },
+      {
+        "label": "Conector",
+        "value": "USB-C"
+      }
+    ],
+    "highlights": [
+      "Tela OLED Super Retina XDR",
+      "Chip A16 Bionic"
+    ],
+    "notes": [
+      "Cores, acessórios, versão regional e disponibilidade devem ser confirmados com a equipe. Recursos de rede dependem da operadora e da região."
+    ],
+    "priceNeedsReview": false,
+    "verification": "modelo-verificado",
+    "media": [
+      {
+        "src": "/images/catalog/iphone-15-lacrado-128-gb-411/cover.webp",
+        "thumbnail": "/images/catalog/iphone-15-lacrado-128-gb-411/cover-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      }
+    ]
+  },
+  {
+    "id": "409",
+    "slug": "iphone-14-pro-max-256-gb-semi-novo-409",
+    "name": "iPhone 14 Pro Max 256 GB — seminovo",
+    "sku": null,
+    "type": "simple",
+    "currency": "BRL",
+    "price": 460000,
+    "regularPrice": 460000,
+    "salePrice": null,
+    "compareAt": null,
+    "priceRange": null,
+    "category": "iphones",
+    "categories": [
+      {
+        "id": 18,
+        "name": "Apple",
+        "slug": "apple",
+        "link": ""
+      }
+    ],
+    "marca": "Apple",
+    "attributes": [],
+    "variants": [],
+    "condition": "Seminovo",
+    "images": [
+      "/images/catalog/iphone-14-pro-max-256-gb-semi-novo-409/cover.webp"
+    ],
+    "foto_url": "/images/catalog/iphone-14-pro-max-256-gb-semi-novo-409/cover.webp",
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "variationsIncomplete": false,
+    "requiresOptions": false,
+    "hidden": false,
+    "originalName": "IPhone 14 Pro Max 256 GB Semi Novo",
+    "department": "smartphones",
+    "short": "iPhone com tela OLED Super Retina XDR de 6,7″ e chip A16 Bionic. O ProMotion ajusta a taxa de atualização em até 120 Hz.",
+    "specs": [
+      {
+        "label": "Armazenamento anunciado",
+        "value": "256 GB"
+      },
+      {
+        "label": "Tela",
+        "value": "OLED Super Retina XDR de 6,7″"
+      },
+      {
+        "label": "Chip",
+        "value": "A16 Bionic"
+      },
+      {
+        "label": "Câmeras traseiras",
+        "value": "Principal de 48 MP"
+      },
+      {
+        "label": "Conector",
+        "value": "Lightning"
+      },
+      {
+        "label": "Atualização da tela",
+        "value": "ProMotion, até 120 Hz"
+      }
+    ],
+    "highlights": [
+      "Tela OLED Super Retina XDR",
+      "Chip A16 Bionic"
+    ],
+    "notes": [
+      "Cores, acessórios, versão regional e disponibilidade devem ser confirmados com a equipe. Recursos de rede dependem da operadora e da região.",
+      "Em aparelhos seminovos, saúde da bateria, marcas de uso e histórico de manutenção são específicos da unidade. Consulte a equipe."
+    ],
+    "priceNeedsReview": false,
+    "verification": "modelo-verificado",
+    "media": [
+      {
+        "src": "/images/catalog/iphone-14-pro-max-256-gb-semi-novo-409/cover.webp",
+        "thumbnail": "/images/catalog/iphone-14-pro-max-256-gb-semi-novo-409/cover-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      }
+    ]
+  },
+  {
+    "id": "407",
+    "slug": "iphone-14-semi-novo-128-gb-407",
+    "name": "iPhone 14 128 GB — seminovo",
+    "sku": null,
+    "type": "simple",
+    "currency": "BRL",
+    "price": 299900,
+    "regularPrice": 299900,
+    "salePrice": null,
+    "compareAt": null,
+    "priceRange": null,
+    "category": "iphones",
+    "categories": [
+      {
+        "id": 18,
+        "name": "Apple",
+        "slug": "apple",
+        "link": ""
+      }
+    ],
+    "marca": "Apple",
+    "attributes": [],
+    "variants": [],
+    "condition": "Seminovo",
+    "images": [
+      "/images/catalog/iphone-14-semi-novo-128-gb-407/cover.webp"
+    ],
+    "foto_url": "/images/catalog/iphone-14-semi-novo-128-gb-407/cover.webp",
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "variationsIncomplete": false,
+    "requiresOptions": false,
+    "hidden": false,
+    "originalName": "IPhone 14  Semi Novo 128 GB",
+    "department": "smartphones",
+    "short": "iPhone com tela OLED Super Retina XDR de 6,1″ e chip A15 Bionic. Uma combinação de tela OLED e câmeras para fotos, vídeos e tarefas do dia a dia.",
+    "specs": [
+      {
+        "label": "Armazenamento anunciado",
+        "value": "128 GB"
+      },
+      {
+        "label": "Tela",
+        "value": "OLED Super Retina XDR de 6,1″"
+      },
+      {
+        "label": "Chip",
+        "value": "A15 Bionic"
+      },
+      {
+        "label": "Câmeras traseiras",
+        "value": "Dupla de 12 MP"
+      },
+      {
+        "label": "Conector",
+        "value": "Lightning"
+      }
+    ],
+    "highlights": [
+      "Tela OLED Super Retina XDR",
+      "Chip A15 Bionic"
+    ],
+    "notes": [
+      "Cores, acessórios, versão regional e disponibilidade devem ser confirmados com a equipe. Recursos de rede dependem da operadora e da região.",
+      "Em aparelhos seminovos, saúde da bateria, marcas de uso e histórico de manutenção são específicos da unidade. Consulte a equipe."
+    ],
+    "priceNeedsReview": false,
+    "verification": "modelo-verificado",
+    "media": [
+      {
+        "src": "/images/catalog/iphone-14-semi-novo-128-gb-407/cover.webp",
+        "thumbnail": "/images/catalog/iphone-14-semi-novo-128-gb-407/cover-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      }
+    ]
+  },
+  {
+    "id": "405",
+    "slug": "iphone-12-pro-max-128-gb-405",
+    "name": "iPhone 12 Pro Max 128 GB",
+    "sku": null,
+    "type": "simple",
+    "currency": "BRL",
+    "price": 310000,
+    "regularPrice": 310000,
+    "salePrice": null,
+    "compareAt": null,
+    "priceRange": null,
+    "category": "iphones",
+    "categories": [
+      {
+        "id": 18,
+        "name": "Apple",
+        "slug": "apple",
+        "link": ""
+      }
+    ],
+    "marca": "Apple",
+    "attributes": [],
+    "variants": [],
+    "condition": null,
+    "images": [
+      "/images/catalog/iphone-12-pro-max-128-gb-405/cover.webp"
+    ],
+    "foto_url": "/images/catalog/iphone-12-pro-max-128-gb-405/cover.webp",
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "variationsIncomplete": false,
+    "requiresOptions": false,
+    "hidden": false,
+    "originalName": "IPhone 12 Pro Max  128 GB",
+    "department": "smartphones",
+    "short": "iPhone com tela OLED Super Retina XDR de 6,7″ e chip A14 Bionic. Uma combinação de tela OLED e câmeras para fotos, vídeos e tarefas do dia a dia.",
+    "specs": [
+      {
+        "label": "Armazenamento anunciado",
+        "value": "128 GB"
+      },
+      {
+        "label": "Tela",
+        "value": "OLED Super Retina XDR de 6,7″"
+      },
+      {
+        "label": "Chip",
+        "value": "A14 Bionic"
+      },
+      {
+        "label": "Câmeras traseiras",
+        "value": "Sistema Pro de 12 MP"
+      },
+      {
+        "label": "Conector",
+        "value": "Lightning"
+      }
+    ],
+    "highlights": [
+      "Tela OLED Super Retina XDR",
+      "Chip A14 Bionic"
+    ],
+    "notes": [
+      "Cores, acessórios, versão regional e disponibilidade devem ser confirmados com a equipe. Recursos de rede dependem da operadora e da região."
+    ],
+    "priceNeedsReview": false,
+    "verification": "modelo-verificado",
+    "media": [
+      {
+        "src": "/images/catalog/iphone-12-pro-max-128-gb-405/cover.webp",
+        "thumbnail": "/images/catalog/iphone-12-pro-max-128-gb-405/cover-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      }
+    ]
+  },
+  {
+    "id": "77",
+    "slug": "iphone-14-pro-max-apple-77",
+    "name": "iPhone 14 Pro Max 128 GB — seminovo",
+    "sku": null,
+    "type": "simple",
+    "currency": "BRL",
+    "price": 460000,
+    "regularPrice": 460000,
+    "salePrice": null,
+    "compareAt": null,
+    "priceRange": null,
+    "category": "iphones",
+    "categories": [
+      {
+        "id": 18,
+        "name": "Apple",
+        "slug": "apple",
+        "link": ""
+      }
+    ],
+    "marca": "Apple",
+    "attributes": [
+      {
+        "id": 1,
+        "name": "Cor",
+        "taxonomy": "pa_cor",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 21,
+            "name": "Branco",
+            "slug": "branco"
+          },
+          {
+            "id": 22,
+            "name": "Preto",
+            "slug": "preto"
+          },
+          {
+            "id": 23,
+            "name": "Rosa",
+            "slug": "rosa"
+          },
+          {
+            "id": 24,
+            "name": "Verde",
+            "slug": "verde"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Memória",
+        "taxonomy": "pa_memoria",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 25,
+            "name": "128gb",
+            "slug": "128gb"
+          },
+          {
+            "id": 26,
+            "name": "256gb",
+            "slug": "256gb"
+          }
+        ]
+      }
+    ],
+    "variants": [],
+    "condition": "Seminovo",
+    "images": [
+      "/images/catalog/iphone-14-pro-max-apple-77/cover.webp",
+      "/images/catalog/iphone-14-pro-max-apple-77/gallery-01.webp",
+      "/images/catalog/iphone-14-pro-max-apple-77/gallery-02.webp",
+      "/images/catalog/iphone-14-pro-max-apple-77/gallery-03.webp"
+    ],
+    "foto_url": "/images/catalog/iphone-14-pro-max-apple-77/cover.webp",
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "variationsIncomplete": true,
+    "requiresOptions": true,
+    "hidden": false,
+    "originalName": "iPhone 14 Pro Max Apple 128 GB Semi Novo",
+    "department": "smartphones",
+    "short": "iPhone com tela OLED Super Retina XDR de 6,7″ e chip A16 Bionic. O ProMotion ajusta a taxa de atualização em até 120 Hz.",
+    "specs": [
+      {
+        "label": "Armazenamento anunciado",
+        "value": "128 GB"
+      },
+      {
+        "label": "Tela",
+        "value": "OLED Super Retina XDR de 6,7″"
+      },
+      {
+        "label": "Chip",
+        "value": "A16 Bionic"
+      },
+      {
+        "label": "Câmeras traseiras",
+        "value": "Principal de 48 MP"
+      },
+      {
+        "label": "Conector",
+        "value": "Lightning"
+      },
+      {
+        "label": "Atualização da tela",
+        "value": "ProMotion, até 120 Hz"
+      }
+    ],
+    "highlights": [
+      "Tela OLED Super Retina XDR",
+      "Chip A16 Bionic"
+    ],
+    "notes": [
+      "Cores, acessórios, versão regional e disponibilidade devem ser confirmados com a equipe. Recursos de rede dependem da operadora e da região.",
+      "Em aparelhos seminovos, saúde da bateria, marcas de uso e histórico de manutenção são específicos da unidade. Consulte a equipe."
+    ],
+    "priceNeedsReview": false,
+    "verification": "modelo-verificado",
+    "media": [
+      {
+        "src": "/images/catalog/iphone-14-pro-max-apple-77/cover.webp",
+        "thumbnail": "/images/catalog/iphone-14-pro-max-apple-77/cover-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      },
+      {
+        "src": "/images/catalog/iphone-14-pro-max-apple-77/gallery-01.webp",
+        "thumbnail": "/images/catalog/iphone-14-pro-max-apple-77/gallery-01-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      },
+      {
+        "src": "/images/catalog/iphone-14-pro-max-apple-77/gallery-02.webp",
+        "thumbnail": "/images/catalog/iphone-14-pro-max-apple-77/gallery-02-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      },
+      {
+        "src": "/images/catalog/iphone-14-pro-max-apple-77/gallery-03.webp",
+        "thumbnail": "/images/catalog/iphone-14-pro-max-apple-77/gallery-03-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      }
+    ]
+  },
+  {
+    "id": "76",
+    "slug": "iphone-14-pro-apple-76",
+    "name": "iPhone 14 Pro 128 GB — seminovo",
+    "sku": null,
+    "type": "simple",
+    "currency": "BRL",
+    "price": 399000,
+    "regularPrice": 399000,
+    "salePrice": null,
+    "compareAt": null,
+    "priceRange": null,
+    "category": "iphones",
+    "categories": [
+      {
+        "id": 18,
+        "name": "Apple",
+        "slug": "apple",
+        "link": ""
+      }
+    ],
+    "marca": "Apple",
+    "attributes": [
+      {
+        "id": 1,
+        "name": "Cor",
+        "taxonomy": "pa_cor",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 21,
+            "name": "Branco",
+            "slug": "branco"
+          },
+          {
+            "id": 22,
+            "name": "Preto",
+            "slug": "preto"
+          },
+          {
+            "id": 23,
+            "name": "Rosa",
+            "slug": "rosa"
+          },
+          {
+            "id": 24,
+            "name": "Verde",
+            "slug": "verde"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Memória",
+        "taxonomy": "pa_memoria",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 25,
+            "name": "128gb",
+            "slug": "128gb"
+          },
+          {
+            "id": 26,
+            "name": "256gb",
+            "slug": "256gb"
+          }
+        ]
+      }
+    ],
+    "variants": [],
+    "condition": "Seminovo",
+    "images": [
+      "/images/catalog/iphone-14-pro-apple-76/cover.webp",
+      "/images/catalog/iphone-14-pro-apple-76/gallery-01.webp",
+      "/images/catalog/iphone-14-pro-apple-76/gallery-02.webp",
+      "/images/catalog/iphone-14-pro-apple-76/gallery-03.webp"
+    ],
+    "foto_url": "/images/catalog/iphone-14-pro-apple-76/cover.webp",
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "variationsIncomplete": true,
+    "requiresOptions": true,
+    "hidden": false,
+    "originalName": "iPhone 14 Pro 128 GB Apple Semi Novo",
+    "department": "smartphones",
+    "short": "iPhone com tela OLED Super Retina XDR de 6,1″ e chip A16 Bionic. O ProMotion ajusta a taxa de atualização em até 120 Hz.",
+    "specs": [
+      {
+        "label": "Armazenamento anunciado",
+        "value": "128 GB"
+      },
+      {
+        "label": "Tela",
+        "value": "OLED Super Retina XDR de 6,1″"
+      },
+      {
+        "label": "Chip",
+        "value": "A16 Bionic"
+      },
+      {
+        "label": "Câmeras traseiras",
+        "value": "Principal de 48 MP"
+      },
+      {
+        "label": "Conector",
+        "value": "Lightning"
+      },
+      {
+        "label": "Atualização da tela",
+        "value": "ProMotion, até 120 Hz"
+      }
+    ],
+    "highlights": [
+      "Tela OLED Super Retina XDR",
+      "Chip A16 Bionic"
+    ],
+    "notes": [
+      "Cores, acessórios, versão regional e disponibilidade devem ser confirmados com a equipe. Recursos de rede dependem da operadora e da região.",
+      "Em aparelhos seminovos, saúde da bateria, marcas de uso e histórico de manutenção são específicos da unidade. Consulte a equipe."
+    ],
+    "priceNeedsReview": false,
+    "verification": "modelo-verificado",
+    "media": [
+      {
+        "src": "/images/catalog/iphone-14-pro-apple-76/cover.webp",
+        "thumbnail": "/images/catalog/iphone-14-pro-apple-76/cover-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      },
+      {
+        "src": "/images/catalog/iphone-14-pro-apple-76/gallery-01.webp",
+        "thumbnail": "/images/catalog/iphone-14-pro-apple-76/gallery-01-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      },
+      {
+        "src": "/images/catalog/iphone-14-pro-apple-76/gallery-02.webp",
+        "thumbnail": "/images/catalog/iphone-14-pro-apple-76/gallery-02-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      },
+      {
+        "src": "/images/catalog/iphone-14-pro-apple-76/gallery-03.webp",
+        "thumbnail": "/images/catalog/iphone-14-pro-apple-76/gallery-03-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      }
+    ]
+  },
+  {
+    "id": "75",
+    "slug": "iphone-13-pro-apple-75",
+    "name": "iPhone 13 Pro 256 GB",
+    "sku": null,
+    "type": "simple",
+    "currency": "BRL",
+    "price": 399000,
+    "regularPrice": 399000,
+    "salePrice": null,
+    "compareAt": null,
+    "priceRange": null,
+    "category": "iphones",
+    "categories": [
+      {
+        "id": 18,
+        "name": "Apple",
+        "slug": "apple",
+        "link": ""
+      }
+    ],
+    "marca": "Apple",
+    "attributes": [
+      {
+        "id": 1,
+        "name": "Cor",
+        "taxonomy": "pa_cor",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 21,
+            "name": "Branco",
+            "slug": "branco"
+          },
+          {
+            "id": 22,
+            "name": "Preto",
+            "slug": "preto"
+          },
+          {
+            "id": 23,
+            "name": "Rosa",
+            "slug": "rosa"
+          },
+          {
+            "id": 24,
+            "name": "Verde",
+            "slug": "verde"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Memória",
+        "taxonomy": "pa_memoria",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 25,
+            "name": "128gb",
+            "slug": "128gb"
+          },
+          {
+            "id": 26,
+            "name": "256gb",
+            "slug": "256gb"
+          }
+        ]
+      }
+    ],
+    "variants": [],
+    "condition": null,
+    "images": [
+      "/images/catalog/iphone-13-pro-apple-75/cover.webp",
+      "/images/catalog/iphone-13-pro-apple-75/gallery-01.webp",
+      "/images/catalog/iphone-13-pro-apple-75/gallery-02.webp",
+      "/images/catalog/iphone-13-pro-apple-75/gallery-03.webp"
+    ],
+    "foto_url": "/images/catalog/iphone-13-pro-apple-75/cover.webp",
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "variationsIncomplete": true,
+    "requiresOptions": true,
+    "hidden": false,
+    "originalName": "Iphone 13 Pro 256 GB Apple",
+    "department": "smartphones",
+    "short": "iPhone com tela OLED Super Retina XDR de 6,1″ e chip A15 Bionic. O ProMotion ajusta a taxa de atualização em até 120 Hz.",
+    "specs": [
+      {
+        "label": "Armazenamento anunciado",
+        "value": "256 GB"
+      },
+      {
+        "label": "Tela",
+        "value": "OLED Super Retina XDR de 6,1″"
+      },
+      {
+        "label": "Chip",
+        "value": "A15 Bionic"
+      },
+      {
+        "label": "Câmeras traseiras",
+        "value": "Sistema Pro de 12 MP"
+      },
+      {
+        "label": "Conector",
+        "value": "Lightning"
+      },
+      {
+        "label": "Atualização da tela",
+        "value": "ProMotion, até 120 Hz"
+      }
+    ],
+    "highlights": [
+      "Tela OLED Super Retina XDR",
+      "Chip A15 Bionic"
+    ],
+    "notes": [
+      "Cores, acessórios, versão regional e disponibilidade devem ser confirmados com a equipe. Recursos de rede dependem da operadora e da região."
+    ],
+    "priceNeedsReview": false,
+    "verification": "modelo-verificado",
+    "media": [
+      {
+        "src": "/images/catalog/iphone-13-pro-apple-75/cover.webp",
+        "thumbnail": "/images/catalog/iphone-13-pro-apple-75/cover-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      },
+      {
+        "src": "/images/catalog/iphone-13-pro-apple-75/gallery-01.webp",
+        "thumbnail": "/images/catalog/iphone-13-pro-apple-75/gallery-01-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      },
+      {
+        "src": "/images/catalog/iphone-13-pro-apple-75/gallery-02.webp",
+        "thumbnail": "/images/catalog/iphone-13-pro-apple-75/gallery-02-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      },
+      {
+        "src": "/images/catalog/iphone-13-pro-apple-75/gallery-03.webp",
+        "thumbnail": "/images/catalog/iphone-13-pro-apple-75/gallery-03-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      }
+    ]
+  },
+  {
+    "id": "74",
+    "slug": "iphone-13-apple-74",
+    "name": "iPhone 13 128 GB — seminovo",
+    "sku": null,
+    "type": "simple",
+    "currency": "BRL",
+    "price": 290000,
+    "regularPrice": 290000,
+    "salePrice": null,
+    "compareAt": null,
+    "priceRange": null,
+    "category": "iphones",
+    "categories": [
+      {
+        "id": 18,
+        "name": "Apple",
+        "slug": "apple",
+        "link": ""
+      }
+    ],
+    "marca": "Apple",
+    "attributes": [
+      {
+        "id": 1,
+        "name": "Cor",
+        "taxonomy": "pa_cor",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 21,
+            "name": "Branco",
+            "slug": "branco"
+          },
+          {
+            "id": 22,
+            "name": "Preto",
+            "slug": "preto"
+          },
+          {
+            "id": 23,
+            "name": "Rosa",
+            "slug": "rosa"
+          },
+          {
+            "id": 24,
+            "name": "Verde",
+            "slug": "verde"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Memória",
+        "taxonomy": "pa_memoria",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 25,
+            "name": "128gb",
+            "slug": "128gb"
+          },
+          {
+            "id": 26,
+            "name": "256gb",
+            "slug": "256gb"
+          }
+        ]
+      }
+    ],
+    "variants": [],
+    "condition": "Seminovo",
+    "images": [
+      "/images/catalog/iphone-13-apple-74/cover.webp",
+      "/images/catalog/iphone-13-apple-74/gallery-01.webp",
+      "/images/catalog/iphone-13-apple-74/gallery-02.webp",
+      "/images/catalog/iphone-13-apple-74/gallery-03.webp"
+    ],
+    "foto_url": "/images/catalog/iphone-13-apple-74/cover.webp",
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "variationsIncomplete": true,
+    "requiresOptions": true,
+    "hidden": false,
+    "originalName": "iPhone 13 Semi Novo 128 GB",
+    "department": "smartphones",
+    "short": "iPhone com tela OLED Super Retina XDR de 6,1″ e chip A15 Bionic. Uma combinação de tela OLED e câmeras para fotos, vídeos e tarefas do dia a dia.",
+    "specs": [
+      {
+        "label": "Armazenamento anunciado",
+        "value": "128 GB"
+      },
+      {
+        "label": "Tela",
+        "value": "OLED Super Retina XDR de 6,1″"
+      },
+      {
+        "label": "Chip",
+        "value": "A15 Bionic"
+      },
+      {
+        "label": "Câmeras traseiras",
+        "value": "Dupla de 12 MP"
+      },
+      {
+        "label": "Conector",
+        "value": "Lightning"
+      }
+    ],
+    "highlights": [
+      "Tela OLED Super Retina XDR",
+      "Chip A15 Bionic"
+    ],
+    "notes": [
+      "Cores, acessórios, versão regional e disponibilidade devem ser confirmados com a equipe. Recursos de rede dependem da operadora e da região.",
+      "Em aparelhos seminovos, saúde da bateria, marcas de uso e histórico de manutenção são específicos da unidade. Consulte a equipe."
+    ],
+    "priceNeedsReview": false,
+    "verification": "modelo-verificado",
+    "media": [
+      {
+        "src": "/images/catalog/iphone-13-apple-74/cover.webp",
+        "thumbnail": "/images/catalog/iphone-13-apple-74/cover-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      },
+      {
+        "src": "/images/catalog/iphone-13-apple-74/gallery-01.webp",
+        "thumbnail": "/images/catalog/iphone-13-apple-74/gallery-01-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      },
+      {
+        "src": "/images/catalog/iphone-13-apple-74/gallery-02.webp",
+        "thumbnail": "/images/catalog/iphone-13-apple-74/gallery-02-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      },
+      {
+        "src": "/images/catalog/iphone-13-apple-74/gallery-03.webp",
+        "thumbnail": "/images/catalog/iphone-13-apple-74/gallery-03-thumb.webp",
+        "width": 800,
+        "height": 800,
+        "thumbWidth": 480,
+        "thumbHeight": 480
+      }
+    ]
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "id": "967",
+    "price": 980000,
+    "regularPrice": 1090000,
+    "salePrice": 980000,
+    "compareAt": 1090000,
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "requiresOptions": true,
+    "variationsIncomplete": false,
+    "variants": [
+      {
+        "id": "983",
+        "price": 1190000,
+        "stock": null,
+        "attributes": [
+          {
+            "name": "Memória",
+            "value": "512gb"
+          },
+          {
+            "name": "Cor",
+            "value": "laranja"
+          }
+        ]
+      },
+      {
+        "id": "982",
+        "price": 1190000,
+        "stock": null,
+        "attributes": [
+          {
+            "name": "Memória",
+            "value": "512gb"
+          },
+          {
+            "name": "Cor",
+            "value": "branco"
+          }
+        ]
+      },
+      {
+        "id": "981",
+        "price": 1190000,
+        "stock": null,
+        "attributes": [
+          {
+            "name": "Memória",
+            "value": "512gb"
+          },
+          {
+            "name": "Cor",
+            "value": "azul"
+          }
+        ]
+      },
+      {
+        "id": "980",
+        "price": 990000,
+        "stock": null,
+        "attributes": [
+          {
+            "name": "Memória",
+            "value": "256gb"
+          },
+          {
+            "name": "Cor",
+            "value": "laranja"
+          }
+        ]
+      },
+      {
+        "id": "979",
+        "price": 990000,
+        "stock": null,
+        "attributes": [
+          {
+            "name": "Memória",
+            "value": "256gb"
+          },
+          {
+            "name": "Cor",
+            "value": "branco"
+          }
+        ]
+      },
+      {
+        "id": "978",
+        "price": 980000,
+        "stock": null,
+        "attributes": [
+          {
+            "name": "Memória",
+            "value": "256gb"
+          },
+          {
+            "name": "Cor",
+            "value": "azul"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "419",
+    "price": 599000,
+    "regularPrice": 599000,
+    "salePrice": null,
+    "compareAt": null,
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "requiresOptions": false,
+    "variationsIncomplete": false,
+    "variants": []
+  },
+  {
+    "id": "416",
+    "price": 680000,
+    "regularPrice": 680000,
+    "salePrice": null,
+    "compareAt": null,
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "requiresOptions": false,
+    "variationsIncomplete": false,
+    "variants": []
+  },
+  {
+    "id": "414",
+    "price": 329000,
+    "regularPrice": 329000,
+    "salePrice": null,
+    "compareAt": null,
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "requiresOptions": false,
+    "variationsIncomplete": false,
+    "variants": []
+  },
+  {
+    "id": "411",
+    "price": 448000,
+    "regularPrice": 448000,
+    "salePrice": null,
+    "compareAt": null,
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "requiresOptions": false,
+    "variationsIncomplete": false,
+    "variants": []
+  },
+  {
+    "id": "409",
+    "price": 460000,
+    "regularPrice": 460000,
+    "salePrice": null,
+    "compareAt": null,
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "requiresOptions": false,
+    "variationsIncomplete": false,
+    "variants": []
+  },
+  {
+    "id": "407",
+    "price": 299900,
+    "regularPrice": 299900,
+    "salePrice": null,
+    "compareAt": null,
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "requiresOptions": false,
+    "variationsIncomplete": false,
+    "variants": []
+  },
+  {
+    "id": "405",
+    "price": 310000,
+    "regularPrice": 310000,
+    "salePrice": null,
+    "compareAt": null,
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "requiresOptions": false,
+    "variationsIncomplete": false,
+    "variants": []
+  },
+  {
+    "id": "77",
+    "price": 460000,
+    "regularPrice": 460000,
+    "salePrice": null,
+    "compareAt": null,
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "requiresOptions": true,
+    "variationsIncomplete": true,
+    "variants": []
+  },
+  {
+    "id": "76",
+    "price": 399000,
+    "regularPrice": 399000,
+    "salePrice": null,
+    "compareAt": null,
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "requiresOptions": true,
+    "variationsIncomplete": true,
+    "variants": []
+  },
+  {
+    "id": "75",
+    "price": 399000,
+    "regularPrice": 399000,
+    "salePrice": null,
+    "compareAt": null,
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "requiresOptions": true,
+    "variationsIncomplete": true,
+    "variants": []
+  },
+  {
+    "id": "74",
+    "price": 290000,
+    "regularPrice": 290000,
+    "salePrice": null,
+    "compareAt": null,
+    "stock": null,
+    "available": true,
+    "purchasable": true,
+    "requiresOptions": true,
+    "variationsIncomplete": true,
+    "variants": []
+  }
+]

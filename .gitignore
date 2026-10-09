@@ -1,0 +1,42 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ref apenas referência local — não commitar
+ref/
+
+# Backups locais e arquivos brutos da extração (não são parte do deploy)
+backups/
+Kit_Extracao_MiPhone/
+qa-artifacts/
+
+# Referências privadas e relatórios de trabalho
+assets/
+src/assets/
+RELATORIO_*.md
+conversion-summary.json
+.env
+.env.*
+!.env.example
+public/branding/logo-original.jfif

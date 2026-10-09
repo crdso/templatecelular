@@ -1,0 +1,3 @@
+import { MapPin } from 'lucide-react'
+import { storeConfig } from '../config/store.js'
+export default function Units(){return <section id="unidades" className="demo-units"><div className="site-shell"><div className="demo-section-heading"><p className="section-kicker">NOSSAS UNIDADES</p><h2>Conheça nossos espaços.</h2><p>Endereços fictícios para demonstração, personalizáveis após a contratação.</p></div><div className="units-grid">{storeConfig.units.map(unit=><div key={unit.name} className="location-card"><MapPin size={24}/><h3>{unit.name}</h3><p>{unit.address}</p><p>{unit.city}</p><small>Informações demonstrativas</small></div>)}</div></div></section>}
