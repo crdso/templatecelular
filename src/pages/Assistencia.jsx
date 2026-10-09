@@ -34,8 +34,9 @@ export default function Assistencia(){
             </div>
           </div>
           <div className="assist-hero-visual">
-            <h2>UMA IMAGEM DA ASSISTENCIA TÉCNICA (ilustrativa)</h2>
-            <figure className="assist-hero-media" aria-label="Espaço para imagem ilustrativa da assistência técnica" />
+            <figure className="assist-hero-media" aria-label="Espaço para imagem ilustrativa da assistência técnica">
+              <h2>UMA IMAGEM DA ASSISTENCIA TÉCNICA (ilustrativa)</h2>
+            </figure>
           </div>
         </div>
       </section>

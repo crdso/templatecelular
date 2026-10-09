@@ -82,8 +82,9 @@
 .assist-btn-secondary{ background: var(--site-panel); border-color: var(--site-border); color: var(--site-text); }
 
 .assist-hero-visual{min-width:0;order:-1}
-.assist-hero-visual h2{font-size:clamp(32px,3.5vw,48px);line-height:1.03;font-weight:800;letter-spacing:-.03em;margin:0 0 24px;color:var(--site-text);overflow-wrap:anywhere}
+.assist-hero-visual h2{font-size:clamp(28px,3.5vw,48px);line-height:1.03;font-weight:800;letter-spacing:-.03em;margin:0;color:var(--site-text);overflow-wrap:anywhere}
 .assist-hero-media{
+  padding:clamp(20px,3vw,40px);
   margin: 0;
   width: 100%;
   height: auto;
