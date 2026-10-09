@@ -9,7 +9,8 @@
     "test:catalog": "node scripts/validate-store.mjs",
     "test:browser": "node scripts/qa-store.mjs",
     "lint": "oxlint",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "test:components": "node scripts/qa-restored-components.mjs"
   },
   "dependencies": {
     "lucide-react": "^1.33.0",

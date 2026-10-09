@@ -378,3 +378,6 @@ img{display:block;max-width:100%}
   .store-cine-status{margin-top:8px}
 }
 
+
+/* Prova social: preserva o marquee original e fecha o loop com o gap existente. */
+@keyframes marquee{from{transform:translate3d(0,0,0)}to{transform:translate3d(calc(-50% - 6px),0,0)}}
