@@ -110,6 +110,12 @@ img{display:block;max-width:100%}
 
 /* AFTER HERO OVERLAP - sem overflow que quebra sticky no iOS */
 .home-content-after-cinema{position:relative;z-index:7;width:100%;margin-top:-24svh;overflow:visible}
+.home-page{--home-base:#080808;--home-alternate:#141414;--home-card:#1b1b1f;--home-card-soft:#202024}
+:root[data-theme="light"] .home-page{--home-base:#ffffff;--home-alternate:#ededed;--home-card:#ffffff;--home-card-soft:#f4f4f6;--site-muted:#62626b}
+.home-page .home-content-after-cinema>section{--site-panel:var(--home-card);--site-panel-soft:var(--home-card-soft);background:var(--home-base);border-block:0}
+.home-page .home-content-after-cinema>section:nth-of-type(odd){background:var(--home-alternate)}
+.home-page~.site-footer{background:#141414;border-top:0}
+:root[data-theme="light"] .home-page~.site-footer{background:#ededed}
 @media(max-width:720px){.home-content-after-cinema{margin-top:-14svh}}
 
 /* PRODUCTS */

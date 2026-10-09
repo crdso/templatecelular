@@ -138,7 +138,7 @@ export default function RepairProcessSection(){
 
         <div style={{marginTop:14, display:'none'}} className="repair-mobile-detail">
           <p style={{fontWeight:800,fontSize:15}}>{step.title}</p>
-          <p style={{color:'#85858b',fontSize:13,marginTop:6,lineHeight:1.6}}>{step.description}</p>
+          <p style={{color:'var(--site-muted)',fontSize:13,marginTop:6,lineHeight:1.6}}>{step.description}</p>
         </div>
       </div>
 
