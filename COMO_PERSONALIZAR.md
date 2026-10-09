@@ -10,6 +10,8 @@
 
 Mantenha os avisos demonstrativos durante a prospecção. `demoMode` identifica a configuração; mudar somente essa flag não transforma o site em uma operação comercial nem remove avisos. Para uma loja contratada, adapte conteúdos, práticas de privacidade e condições reais antes de publicar.
 
-Publique somente o conteúdo de `dist`, após autorização. Não envie backups, referências, relatórios internos, dados de extração ou a raiz inteira do projeto para hospedagem. Esta tarefa não publicou o site nem alterou remotos.
+Publique somente o conteúdo de `dist`, após autorização. Não envie backups, referências, relatórios internos, dados de extração ou a raiz inteira do projeto para hospedagem.
 
 O teste de preservação compara o catálogo com a referência sanitizada em `scripts/fixtures/catalog-baseline.json`, sem precisar do backup privado. Ao substituir deliberadamente o catálogo para outra loja, atualize também a referência de validação e as contagens esperadas em `scripts/validate-store.mjs`.
+
+Na prova social, substitua `public/proof/imagem-cliente.png` por conteúdo próprio ou autorizado. As repetições se ajustam à largura para manter o loop. As avaliações em `src/components/ProofSection.jsx` são exemplos fictícios; mantenha essa identificação durante a demonstração. Execute também `npm run test:components` com a prévia local ativa.

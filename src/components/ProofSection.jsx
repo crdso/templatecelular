@@ -1,16 +1,7 @@
-import { useState } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { Camera, MessageSquareText, Star } from 'lucide-react'
 
-const GALLERY = [
-  "/proof/celular-em-uso.jpg",
-  "/proof/celular-em-uso.jpg",
-  "/proof/celular-em-uso.jpg",
-  "/proof/celular-em-uso.jpg",
-  "/proof/celular-em-uso.jpg",
-  "/proof/celular-em-uso.jpg",
-  "/proof/celular-em-uso.jpg",
-  "/proof/celular-em-uso.jpg"
-]
+const GALLERY = ['/proof/imagem-cliente.png']
 
 const REVIEWS = [
   {
@@ -71,7 +62,22 @@ const REVIEWS = [
 
 export default function ProofSection(){
   const [tab,setTab]=useState('photos')
-  const photos = [...GALLERY, ...GALLERY]
+  const photoMarquee = useRef(null)
+  const [photoCopies, setPhotoCopies] = useState(4)
+  useEffect(()=>{
+    if(tab !== 'photos' || !photoMarquee.current) return
+    const element = photoMarquee.current
+    const update = ()=>{
+      const card = element.querySelector('.marquee__item--photo')
+      if(card) setPhotoCopies(Math.max(2, Math.ceil(element.clientWidth / (card.getBoundingClientRect().width + 12))))
+    }
+    const observer = new ResizeObserver(update)
+    observer.observe(element)
+    update()
+    return ()=>observer.disconnect()
+  }, [tab])
+  const photoGroup = Array.from({length:photoCopies},(_,i)=>GALLERY[i % GALLERY.length])
+  const photos = [...photoGroup, ...photoGroup]
   const reviews = [...REVIEWS, ...REVIEWS]
   return (
     <section id="prova-social" className="customer-proof-section">
@@ -94,10 +100,10 @@ export default function ProofSection(){
 
       <div className="customer-proof-panel" id="customer-proof-panel" role="tabpanel">
         {tab==='photos' ? (
-          <div className="marquee" aria-label="Fotos de clientes">
+          <div className="marquee" ref={photoMarquee} aria-label="Fotos de clientes">
             <div className="marquee__track">
               {photos.map((src,i)=> (
-                <div key={src+i} aria-hidden={i>=GALLERY.length?true:undefined} className="marquee__item marquee__item--photo"><img src={src} alt="Fotografia ilustrativa de celular em uso; não representa cliente da loja" loading="lazy"  /></div>
+                <div key={src+i} aria-hidden={i>=photoGroup.length?true:undefined} className="marquee__item marquee__item--photo"><img src={src} alt="Imagem ilustrativa fornecida para a seção de clientes" loading="lazy"  /></div>
               ))}
             </div>
           </div>
@@ -106,11 +112,11 @@ export default function ProofSection(){
             <div className="marquee__track">
               {reviews.map((r,i)=> (
                 <div key={r.name+i} aria-hidden={i>=REVIEWS.length?true:undefined} className="marquee__item marquee__item--review">
-                  <div style={{display:'flex', gap:2, marginBottom:20, color:'var(--site-orange)'}}>
+                  <div className="proof-review-stars">
                     {Array.from({length:r.stars}).map((_,idx)=><Star key={idx} size={14} fill="currentColor" stroke="currentColor" />)}
                   </div>
-                  <p style={{fontSize:15, lineHeight:1.6, color:'var(--site-muted)', flexGrow:1, marginBottom:24, textAlign:'left'}}>“{r.text}”</p>
-                  <div style={{borderTop:'1px solid var(--site-hairline)', paddingTop:20, display:'flex', alignItems:'center', gap:12}}>
+                  <p className="proof-review-text">“{r.text}”</p>
+                  <div className="proof-review-author">
                     <span style={{width:32,height:32,borderRadius:999,background:'color-mix(in srgb, var(--site-orange) 12%, transparent)',border:'1px solid color-mix(in srgb, var(--site-orange) 18%, transparent)',display:'grid',placeItems:'center',fontWeight:800,fontSize:12,color:'var(--site-orange)', flexShrink:0}}>{r.initial}</span>
                     <span style={{fontWeight:500,fontSize:14,color:'var(--site-muted)'}}>{r.name}<small style={{display:'block',fontSize:11,marginTop:4}}>Exemplo fictício</small></span>
                   </div>
