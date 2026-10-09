@@ -34,7 +34,7 @@ export default function Assistencia(){
             </div>
           </div>
           <figure className="assist-hero-media">
-            <div className="demo-repair-visual"><span aria-hidden="true">✦</span><h2>Cuidado em cada detalhe.</h2><p>Diagnóstico, reparo e atenção ao seu aparelho.</p><small>Serviços demonstrativos · consulte condições</small></div>
+            <div className="demo-repair-visual"><span aria-hidden="true">✦</span><h2>IMAGEM DA ASSISTENCIA TÉCNICA (ilustrativa)</h2></div>
           </figure>
         </div>
       </section>
