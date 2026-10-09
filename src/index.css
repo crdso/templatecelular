@@ -358,3 +358,23 @@ img{display:block;max-width:100%}
 
 @media(min-width:768px) and (max-width:1023px){.site-header-inner{grid-template-columns:minmax(0,1fr) auto auto}}
 
+
+/* Mobile: hierarquia tipográfica do Hero, sem alterar a animação ou a mídia. */
+@media(max-width:767px){
+  .store-cine-copy{
+    padding:clamp(96px,calc(24svh - 40px),172px) clamp(16px,4.4vw,20px) 0;
+    max-width:100%;
+  }
+  .store-cine-lines{margin-top:16px}
+  .store-cine-line{
+    font-size:clamp(36px,10.8vw,48px);
+    line-height:1.02;
+    font-weight:800;
+    letter-spacing:-.045em;
+    max-width:100%;
+  }
+  .store-cine-support{margin-top:14px;max-width:35ch;line-height:1.5}
+  .store-cine-rail{margin-top:18px;width:clamp(128px,42vw,176px)}
+  .store-cine-status{margin-top:8px}
+}
+
